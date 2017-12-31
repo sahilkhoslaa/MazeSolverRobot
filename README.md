@@ -11,8 +11,10 @@
 <h3>Problem Statement</h3>
 Teams have to build an autonomous robot which can follow a white line and keep track ofdirections while going through the maze. The bot has to analyze the path in the dry run and has togo through the mesh from the starting point to the ending point in minimum possible time.
 <h5>ARENA</h5>
-The game field consists of an arena having dimensions 2310 mm X 1980 mm (lxb).It consists of the following:
+<p>The game field consists of an arena having dimensions 2310 mm X 1980 mm (lxb).It consists of the following:
 1.The arena is composed of random paths made up of white strips.
 2.Angle between two adjacent white lines in the path is either 90 deg or 135 deg.
 3.The width of all white stripes will be 30mm.
-4.The actual arena at the competitionwill consist of slight alterations in the path  .
+4.The actual arena at the competitionwill consist of slight alterations in the path.
+</p>
+<div><iframe src="https://www.youtube.com/embed/4x-aHGCD8Pc" ></iframe></div>
