@@ -28,5 +28,5 @@ Teams have to build an autonomous robot which can follow a white line and keep t
 <p>Just Copy and paste the above given code in MazeSolverRobot Directory -> ArduinoCode_Final.ino in the new project of Arduino Software. Save and Upload the Code in the Arduino Board and Design a map with Black lines on White Background.
 <h6> Note : This Code is valid for black lines on white background. Just apply "!" NOT operater in all the if conditions to reverse the color combination</h6></p>
 <h5>You are All set to go :)</h5>
-<h6>Visit : <a href="http://www.sahilkhosla.co.in/mazesolver">MazeSolverRobot</a> for more info regarding this project.
+<h6>Visit : <a href="http://www.sahilkhosla.co.in/mazesolver.html">MazeSolverRobot</a> for more info regarding this project.
 <h6>Author : Sahil Khosla<h6>
