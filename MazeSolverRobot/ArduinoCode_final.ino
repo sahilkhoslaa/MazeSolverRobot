@@ -29,7 +29,7 @@ float g=1/1.2;//adjustment Factor
 void setup()
 {
   pinMode(6,OUTPUT);
-  pinMode(7,OUTPUT);
+  pinMode(9,OUTPUT);
   pinMode(10,OUTPUT);  
   pinMode(11,OUTPUT);
   
